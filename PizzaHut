@@ -1,0 +1,13 @@
+<img src="https://mentalitch.com/wp-content/uploads/2019/01/History-of-Pizza-Hut.jpg" alt="Pizza Image" style="width:300px;">
+<h1>Welcome To Pizza Hut!</h1>
+This Electronic storefront is brought to you by Pizza Hut and The Santa Cruz Operation. You may click on the Pizza Hut logo on any page to submit comments regarding this service to webmaster@pizzahut.com.  Take a look at what we have to offer!
+<form action="/action_page.php">
+  <label for="fname">Full name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="saddress">Street Address:</label>
+  <input type="text" id="saddress" name="saddress"><br><br>
+   <label for="pnumb">Phone Number:</label>
+  <input type="text" id="pnumb" name="pnumb"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
